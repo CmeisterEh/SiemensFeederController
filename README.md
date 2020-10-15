@@ -6,6 +6,6 @@ Replacement for the Proprietary Built In Controller
 2. Feeder Controllers (Manages the Mechanical Hardware for up to 4x Siemens Feeders)
 
 <h6>Siemens Siplace S2 Feeder Core</h6>
-![image](/Images/Mechanical Feeder Photos/Assembled.JPG)
+![image](https://github.com/CmeisterEh/SiemensFeederController/blob/master/Images/Circuit%20Board/PCB%20Explanation.jpg?raw=true)
 
 
